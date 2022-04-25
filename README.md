@@ -1,4 +1,4 @@
-# HotAirBalloon.html
+# HotAirBalloon
 Fun moment of life. 
 
 This is a website that can give people the chance to hire a hot air ballon on a particalar day that makes other happier 
